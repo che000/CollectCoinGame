@@ -1,0 +1,8 @@
+img {
+	width: 30px;
+	position: absolute;
+	left: 10px;
+}
+html{
+	overflow: hidden;
+}
